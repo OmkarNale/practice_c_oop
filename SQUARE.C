@@ -4,9 +4,9 @@ void main()
 {
 	int a,b,c;
 	clrscr();
-	printf("enter the a :");
+	printf("\nEnter the a :");
 	scanf("%d",&a);
-	printf("enter the b :");
+	printf("\nEnter the b :");
 	scanf("%d",&b);
 	c=(a>b)?a:b;
 	printf("\n c is %d",c);
