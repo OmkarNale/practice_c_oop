@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	int a,b,c;
+	clrscr();
+	printf("enter the a :");
+	scanf("%d",&a);
+	printf("enter the b :");
+	scanf("%d",&b);
+	c=(a>b)?a:b;
+	printf("\n c is %d",c);
+getch();
+}
