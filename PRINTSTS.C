@@ -2,6 +2,6 @@
 #include<conio.h>
 void mai()
 {
-	printf("hell World !");
+printf("\nHello World !");
 getch();
 }
